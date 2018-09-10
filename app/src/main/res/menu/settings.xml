@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/library"
+            android:title="Library"
+            android:icon="@drawable/ic_library_music_black_24dp"
+            />
+        <item
+            android:id="@+id/playlist"
+            android:title="Playlist"
+            android:icon="@drawable/ic_playlist_play_black_24dp"/>
+
+        <item
+            android:id="@+id/download"
+            android:title="Download"
+            android:icon="@drawable/ic_file_download_black_24dp" />
+
+
+        <menu>
+
+                <item
+                    android:id="@+id/setttings"
+                    android:title="Settings"
+                    android:icon="@drawable/ic_settings_black_24dp"/>
+
+                <item
+                    android:id="@+id/about"
+                    android:title="About"
+                    android:icon="@drawable/ic_info_black_24dp"
+
+                    />
+
+
+
+                <item
+                    android:id="@+id/support"
+                    android:title="Support development"
+                    android:icon="@drawable/ic_payment_black_24dp">
+
+                </item>
+
+
+        </menu>
+
+
+    </group>
+</menu>

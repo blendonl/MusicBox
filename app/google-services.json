@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "110039777018",
+    "firebase_url": "https://musicbox-196715.firebaseio.com",
+    "project_id": "musicbox-196715",
+    "storage_bucket": "musicbox-196715.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110039777018:android:b1062ac93f8b4a57",
+        "android_client_info": {
+          "package_name": "com.pek.doni.musicbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110039777018-7n1du7fmluoqjr5otqhes4epr6j4qgig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pek.doni.musicbox",
+            "certificate_hash": "0dcc969667b15d920f8197ea71bb0bc2004e9658"
+          }
+        },
+        {
+          "client_id": "110039777018-slnfjhdjsaubd9namu8k73hdn9bc61am.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "110039777018-slnfjhdjsaubd9namu8k73hdn9bc61am.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkNYtWnoBWF0qWfuN9fmBKtodKJ1elZP8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110039777018-slnfjhdjsaubd9namu8k73hdn9bc61am.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

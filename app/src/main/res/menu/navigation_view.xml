@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/songNImage"
+        android:icon="@drawable/empty_music"
+        android:title="SongImage"/>
+
+    <item
+        android:id="@+id/next"
+        android:icon="@drawable/ic_skip_previous_black_24dp"
+        android:title="Previus" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/ic_play_arrow_black_24dp"
+        android:title="Play" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_skip_next_black_24dp"
+        android:title="Next" />
+
+
+</menu>
